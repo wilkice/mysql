@@ -1,4 +1,4 @@
-# mysql
-All about mysql
+# MySQL
+All about MySQL
 
-Look at [wiki](https://github.com/wilkice/mysql/wiki)
+For posts, pls go to [wiki](https://github.com/wilkice/mysql/wiki)
